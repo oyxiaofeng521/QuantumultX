@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
-
+# 超过4万条广告规则, 阻止常见的APP广告/隐私/行为/数据/流量/劫持的统计和追踪
 # Current total domain name : 43,000+ 
 # Update time : 2021.2.27
 
