@@ -6,6 +6,8 @@ HOST-SUFFIX,battle.net,Outside
 HOST-SUFFIX,battlenet.com,Outside
 HOST-SUFFIX,blizzard.com,Outside
 
+# HOST-SUFFIX,binance.com,Outside
+# HOST-SUFFIX,gate.io,Outside
 HOST-SUFFIX,discord.com,Outside
 HOST-SUFFIX,discord.gg,Outside
 HOST-SUFFIX,discord.media,Outside
@@ -1322,7 +1324,6 @@ HOST-SUFFIX,bigone.com,Outside
 HOST-SUFFIX,bild.de,Outside
 HOST-SUFFIX,biliworld.com,Outside
 HOST-SUFFIX,billypan.com,Outside
-HOST-SUFFIX,binance.com,Outside
 HOST-SUFFIX,binux.me,Outside
 HOST-SUFFIX,binwang.me,Outside
 HOST-SUFFIX,bird.so,Outside
@@ -2615,7 +2616,6 @@ HOST-SUFFIX,gardennetworks.com,Outside
 HOST-SUFFIX,gardennetworks.org,Outside
 HOST-SUFFIX,gartlive.com,Outside
 HOST-SUFFIX,gate-project.com,Outside
-HOST-SUFFIX,gate.io,Outside
 HOST-SUFFIX,gatecoin.com,Outside
 HOST-SUFFIX,gather.com,Outside
 HOST-SUFFIX,gatherproxy.com,Outside
