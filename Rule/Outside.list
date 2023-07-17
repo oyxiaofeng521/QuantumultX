@@ -8,6 +8,7 @@ HOST-SUFFIX,blizzard.com,Outside
 
 # HOST-SUFFIX,binance.com,Outside
 # HOST-SUFFIX,gate.io,Outside
+HOST-SUFFIX,kucoin.com,Outside
 HOST-SUFFIX,discord.com,Outside
 HOST-SUFFIX,discord.gg,Outside
 HOST-SUFFIX,discord.media,Outside
