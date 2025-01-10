@@ -64,28 +64,28 @@ HOST-SUFFIX,openaboc.cn,ICBC
 HOST-SUFFIX,openaboc.com,ICBC
 HOST-SUFFIX,openaboc.com.cn,ICBC
 
-HOST-SUFFIX,bank-of-china.com,BOC
-HOST-SUFFIX,bankofchina.com,BOC
-HOST-SUFFIX,boc.cn,BOC
-HOST-SUFFIX,bocamchina.com,BOC
-HOST-SUFFIX,bocaviation.com,BOC
-HOST-SUFFIX,boccfc.cc,BOC
-HOST-SUFFIX,boccfc.cn,BOC
-HOST-SUFFIX,bocfullertonbank.com,BOC
-HOST-SUFFIX,bocgi.com,BOC
-HOST-SUFFIX,bocgins.com,BOC
-HOST-SUFFIX,bochk.com,BOC
-HOST-SUFFIX,bochkonline.com,BOC
-HOST-SUFFIX,bocichina.cn,BOC
-HOST-SUFFIX,bocichina.com,BOC
-HOST-SUFFIX,bocichina.com.cn,BOC
-HOST-SUFFIX,bocifunds.cn,BOC
-HOST-SUFFIX,bocifunds.com,BOC
-HOST-SUFFIX,bocifunds.com.cn,BOC
-HOST-SUFFIX,bocigroup.com,BOC
-HOST-SUFFIX,bocim.com,BOC
-HOST-SUFFIX,bocservices.com.cn,BOC
-HOST-SUFFIX,ftcwifi.com,BOC
+HOST-SUFFIX,bank-of-china.com, ICBC
+HOST-SUFFIX,bankofchina.com, ICBC
+HOST-SUFFIX,boc.cn, ICBC
+HOST-SUFFIX,bocamchina.com, ICBC
+HOST-SUFFIX,bocaviation.com, ICBC
+HOST-SUFFIX,boccfc.cc, ICBC
+HOST-SUFFIX,boccfc.cn, ICBC
+HOST-SUFFIX,bocfullertonbank.com, ICBC
+HOST-SUFFIX,bocgi.com, ICBC
+HOST-SUFFIX,bocgins.com, ICBC
+HOST-SUFFIX,bochk.com, ICBC
+HOST-SUFFIX,bochkonline.com, ICBC
+HOST-SUFFIX,bocichina.cn, ICBC
+HOST-SUFFIX,bocichina.com, ICBC
+HOST-SUFFIX,bocichina.com.cn, ICBC
+HOST-SUFFIX,bocifunds.cn, ICBC
+HOST-SUFFIX,bocifunds.com, ICBC
+HOST-SUFFIX,bocifunds.com.cn, ICBC
+HOST-SUFFIX,bocigroup.com, ICBC
+HOST-SUFFIX,bocim.com, ICBC
+HOST-SUFFIX,bocservices.com.cn, ICBC
+HOST-SUFFIX,ftcwifi.com, ICBC
 
 HOST-SUFFIX,ccb-life.com.cn,ICBC
 HOST-SUFFIX,ccb.cn,ICBC
