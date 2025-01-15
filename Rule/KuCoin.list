@@ -1,4 +1,6 @@
 HOST-SUFFIX,kucoin.com,KuCoin
-HOST-KEYWORD,kucoin.com,KuCoin
 HOST-SUFFIX,kucoin.cn,KuCoin
 HOST-SUFFIX,kucoin.net,KuCoin
+
+HOST-KEYWORD,kucoin,KuCoin
+HOST-KEYWORD,kucoin.com,KuCoin
