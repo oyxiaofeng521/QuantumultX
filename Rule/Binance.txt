@@ -8,3 +8,4 @@ HOST-SUFFIX,bnappzh.com,binance
 HOST-SUFFIX,bnbstatic.com,binance
 HOST-SUFFIX,binance.im,binance
 HOST-SUFFIX,binance.me,binance
+HOST-SUFFIX,binance.us,binance
