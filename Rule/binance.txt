@@ -1,0 +1,10 @@
+HOST-SUFFIX,binance.cc,binance
+HOST-SUFFIX,binance.com,binance
+HOST-SUFFIX,binance.info,binance
+HOST-SUFFIX,binance.cloud,binance
+HOST-SUFFIX,bntrace.com,binance
+HOST-SUFFIX,binancefuture.com,binance
+HOST-SUFFIX,bnappzh.com,binance
+HOST-SUFFIX,bnbstatic.com,binance
+HOST-SUFFIX,binance.im,binance
+HOST-SUFFIX,binance.me,binance
