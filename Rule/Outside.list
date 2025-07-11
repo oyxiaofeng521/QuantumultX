@@ -1529,7 +1529,7 @@ HOST-SUFFIX,bwh1.net,Outside
 HOST-SUFFIX,bwsj.hk,Outside
 HOST-SUFFIX,bx.in.th,Outside
 HOST-SUFFIX,bx.tl,Outside
-HOST-SUFFIX,bybit.com,Outside
+# HOST-SUFFIX,bybit.com,Outside
 HOST-SUFFIX,bynet.co.il,Outside
 HOST-SUFFIX,bypasscensorship.org,Outside
 HOST-SUFFIX,byrut.org,Outside
