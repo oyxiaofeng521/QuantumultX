@@ -6,8 +6,6 @@ HOST-SUFFIX,battle.net,Outside
 HOST-SUFFIX,battlenet.com,Outside
 HOST-SUFFIX,blizzard.com,Outside
 
-# HOST-SUFFIX,binance.com,Outside
-# HOST-SUFFIX,gate.io,Outside
 HOST-SUFFIX,discord.com,Outside
 HOST-SUFFIX,discord.gg,Outside
 HOST-SUFFIX,discord.media,Outside
@@ -1529,7 +1527,6 @@ HOST-SUFFIX,bwh1.net,Outside
 HOST-SUFFIX,bwsj.hk,Outside
 HOST-SUFFIX,bx.in.th,Outside
 HOST-SUFFIX,bx.tl,Outside
-# HOST-SUFFIX,bybit.com,Outside
 HOST-SUFFIX,bynet.co.il,Outside
 HOST-SUFFIX,bypasscensorship.org,Outside
 HOST-SUFFIX,byrut.org,Outside
