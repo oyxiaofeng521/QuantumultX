@@ -54,7 +54,8 @@ DOMAIN-KEYWORD,kucoin,Cryptocurrency
 DOMAIN-KEYWORD,okx,Cryptocurrency
 DOMAIN-KEYWORD,huobi,Cryptocurrency
 
-# DOMAIN-KEYWORD,bgportable,Cryptocurrency
+DOMAIN-KEYWORD,bgportable,Cryptocurrency
+DOMAIN-KEYWORD,bgstatic,Cryptocurrency
 
 # Defi
 HOST-SUFFIX,mdex.com,Cryptocurrency
