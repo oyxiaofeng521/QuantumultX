@@ -47,6 +47,15 @@ HOST-SUFFIX,bitgetapp.com,Cryptocurrency
 HOST-SUFFIX,bitgetapps.com,Cryptocurrency
 HOST-SUFFIX,9ibp.com,Cryptocurrency
 
+DOMAIN-KEYWORD,binance,Cryptocurrency
+DOMAIN-KEYWORD,gate,Cryptocurrency
+DOMAIN-KEYWORD,bitget,Cryptocurrency
+DOMAIN-KEYWORD,bybit,Cryptocurrency
+DOMAIN-KEYWORD,kucoin,Cryptocurrency
+DOMAIN-KEYWORD,okx,Cryptocurrency
+DOMAIN-KEYWORD,huobi,Cryptocurrency
+
+
 # Defi
 HOST-SUFFIX,mdex.com,Cryptocurrency
 HOST-SUFFIX,mdex.me,Cryptocurrency
