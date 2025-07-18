@@ -50,7 +50,7 @@ DOMAIN-KEYWORD,binance,Cryptocurrency
 DOMAIN-KEYWORD,gate,Cryptocurrency
 
 DOMAIN-KEYWORD,bitget,Cryptocurrency
-DOMAIN-KEYWORD,engagelab,Cryptocurrency
+# DOMAIN-KEYWORD,engagelab,Cryptocurrency
 
 DOMAIN-KEYWORD,bybit,Cryptocurrency
 DOMAIN-KEYWORD,kucoin,Cryptocurrency
@@ -61,7 +61,7 @@ HOST-KEYWORD,binance,Cryptocurrency
 HOST-KEYWORD,gate,Cryptocurrency
 
 HOST-KEYWORD,bitget,Cryptocurrency
-HOST-KEYWORD,engagelab,Cryptocurrency
+# HOST-KEYWORD,engagelab,Cryptocurrency
 
 HOST-KEYWORD,bybit,Cryptocurrency
 HOST-KEYWORD,kucoin,Cryptocurrency
