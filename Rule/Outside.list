@@ -20,11 +20,6 @@ HOST,lens.l.google.com,Outside
 HOST,voice.telephony.goog,Outside
 HOST-SUFFIX,investing.com,Outside
 HOST-SUFFIX,lin.ee,Outside
-HOST-SUFFIX,line.me,Outside
-HOST-SUFFIX,line.naver.jp,Outside
-HOST-SUFFIX,line-apps.com,Outside
-HOST-SUFFIX,line-cdn.net,Outside
-HOST-SUFFIX,line-scdn.net,Outside
 HOST-SUFFIX,nhncorp.jp,Outside
 USER-AGENT,OneDrive*,Outside
 HOST-KEYWORD,onedrive,Outside
