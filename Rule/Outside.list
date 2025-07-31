@@ -35,7 +35,6 @@ HOST-SUFFIX,skype.com,Outside
 HOST-SUFFIX,storage.live.com,Outside
 HOST-SUFFIX,storage.msn.com,Outside
 HOST-SUFFIX,ai.com,Outside
-HOST-SUFFIX,openai.com,Outside
 USER-AGENT,PayPal*,Outside
 HOST-KEYWORD,paypal,Outside
 HOST-SUFFIX,paypal.com,Outside
