@@ -6187,7 +6187,7 @@ HOST-SUFFIX,woopie.tv,Outside
 HOST-SUFFIX,workatruna.com,Outside
 HOST-SUFFIX,workerdemo.org.hk,Outside
 HOST-SUFFIX,workerempowerment.org,Outside
-HOST-SUFFIX,workers.dev,Outside
+# HOST-SUFFIX,workers.dev,Outside
 HOST-SUFFIX,workersthebig.net,Outside
 HOST-SUFFIX,worldjournal.com,Outside
 HOST-SUFFIX,worldvpn.net,Outside
