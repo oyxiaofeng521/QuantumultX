@@ -45,3 +45,5 @@ IP-CIDR,64.23.132.171/32,OpenAI
 IP-ASN,20473,OpenAI
 
 HOST-KEYWORD,falcoonline,OpenAI
+
+HOST-KEYWORD,javbus,OpenAI
