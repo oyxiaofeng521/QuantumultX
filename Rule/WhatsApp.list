@@ -7,7 +7,7 @@
 # HOST-SUFFIX: 4
 # IP-CIDR: 11
 # TOTAL: 17
-HOST,graph.facebook.com,Whatsapp
+# HOST,graph.facebook.com,Whatsapp
 HOST-SUFFIX,bintray.com,Whatsapp
 HOST-SUFFIX,whatsapp.biz,Whatsapp
 HOST-SUFFIX,whatsapp.com,Whatsapp
@@ -24,3 +24,14 @@ IP-CIDR,208.43.122.128/27,Whatsapp
 IP-CIDR,34.224.0.0/12,Whatsapp
 IP-CIDR,50.22.198.204/30,Whatsapp
 IP-CIDR,54.242.0.0/15,Whatsapp
+HOST-SUFFIX,whatsapp-plus.info,Whatsapp
+HOST-SUFFIX,whatsapp-plus.me,Whatsapp
+HOST-SUFFIX,whatsapp-plus.net,Whatsapp
+HOST-SUFFIX,whatsapp.biz,Whatsapp
+HOST-SUFFIX,whatsapp.cc,Whatsapp
+HOST-SUFFIX,whatsapp.com,Whatsapp
+HOST-SUFFIX,whatsapp.info,Whatsapp
+HOST-SUFFIX,whatsapp.net,Whatsapp
+HOST-SUFFIX,whatsapp.org,Whatsapp
+HOST-SUFFIX,whatsapp.tv,Whatsapp
+HOST-SUFFIX,whatsappbrand.com,Whatsapp
