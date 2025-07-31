@@ -332,7 +332,7 @@ HOST-SUFFIX,itgonglun.com,Outside
 HOST-SUFFIX,itun.es,Outside
 HOST-SUFFIX,ixquick.com,Outside
 HOST-SUFFIX,j.mp,Outside
-HOST-SUFFIX,javbus.com,Outside
+# HOST-SUFFIX,javbus.com,Outside
 HOST-SUFFIX,js.revsci.net,Outside
 HOST-SUFFIX,jshint.com,Outside
 HOST-SUFFIX,jtvnw.net,Outside
