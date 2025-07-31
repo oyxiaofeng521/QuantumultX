@@ -690,7 +690,7 @@ HOST-SUFFIX,zalmos.com,Outside
 HOST-SUFFIX,zaobao.com.sg,Outside
 HOST-SUFFIX,zeutch.com,Outside
 HOST-SUFFIX,zynamics.com,Outside
-USER-AGENT,WhatsApp*,Outside
+# USER-AGENT,WhatsApp*,Outside
 HOST-KEYWORD,appledaily,Outside
 HOST-KEYWORD,beetalk,Outside
 HOST-KEYWORD,blogspot,Outside
@@ -699,7 +699,7 @@ HOST-KEYWORD,facebook,Outside
 HOST-KEYWORD,github,Outside
 HOST-KEYWORD,instagram,Outside
 HOST-KEYWORD,twitter,Outside
-HOST-KEYWORD,whatsapp,Outside
+# HOST-KEYWORD,whatsapp,Outside
 HOST-KEYWORD,google,Outside
 HOST-SUFFIX,google.cn,Outside
 HOST-SUFFIX,google.com,Outside
@@ -6113,8 +6113,8 @@ HOST-SUFFIX,wezone.net,Outside
 HOST-SUFFIX,wforum.com,Outside
 HOST-SUFFIX,wha.la,Outside
 HOST-SUFFIX,whatblocked.com,Outside
-HOST-SUFFIX,whatsapp.com,Outside
-HOST-SUFFIX,whatsapp.net,Outside
+# HOST-SUFFIX,whatsapp.com,Outside
+# HOST-SUFFIX,whatsapp.net,Outside
 HOST-SUFFIX,whatsonweibo.com,Outside
 HOST-SUFFIX,wheatseeds.org,Outside
 HOST-SUFFIX,wheelockslatin.com,Outside
