@@ -168,10 +168,10 @@ USER-AGENT,com.kktv*,GMedia
 HOST-SUFFIX,kktv.me,GMedia
 HOST-SUFFIX,kktv.com.tw,GMedia
 HOST,kktv-theater.kk.stream,GMedia
-USER-AGENT,LINE*,GMedia
+# USER-AGENT,LINE*,GMedia
 HOST-SUFFIX,d3c7rimkq79yfu.cloudfront.net,GMedia
-HOST-SUFFIX,linetv.tw,GMedia
-HOST-SUFFIX,profile.line-scdn.net,GMedia
+# HOST-SUFFIX,linetv.tw,GMedia
+# HOST-SUFFIX,profile.line-scdn.net,GMedia
 USER-AGENT,mytv*,GMedia
 HOST-KEYWORD,nowtv100,GMedia
 HOST-KEYWORD,rthklive,GMedia
@@ -835,8 +835,8 @@ HOST-SUFFIX,kktix.com,GMedia
 HOST-SUFFIX,kmplayer.com,GMedia
 HOST-SUFFIX,kobuz.fr,GMedia
 HOST-SUFFIX,ktvu.com,GMedia
-HOST-SUFFIX,line-cdn.net,GMedia
-HOST-SUFFIX,line-scdn.net,GMedia
+# HOST-SUFFIX,line-cdn.net,GMedia
+# HOST-SUFFIX,line-scdn.net,GMedia
 HOST-SUFFIX,litix.io,GMedia
 HOST-SUFFIX,litv.tv,GMedia
 HOST-SUFFIX,livestream.com,GMedia
@@ -1405,8 +1405,8 @@ USER-AGENT,HWTVMobile*,GMedia
 USER-AGENT,Himalaya*,GMedia
 USER-AGENT,Hulu*,GMedia
 USER-AGENT,ITV_Player*,GMedia
-USER-AGENT,LINE%20TV*,GMedia
-USER-AGENT,LINETV*,GMedia
+# USER-AGENT,LINE%20TV*,GMedia
+# USER-AGENT,LINETV*,GMedia
 USER-AGENT,Max*,GMedia
 USER-AGENT,My5*,GMedia
 USER-AGENT,Naver%20TV*,GMedia
