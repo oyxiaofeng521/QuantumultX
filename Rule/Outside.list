@@ -4210,7 +4210,7 @@ HOST-SUFFIX,netbig.com,Outside
 HOST-SUFFIX,netbirds.com,Outside
 HOST-SUFFIX,netcolony.com,Outside
 HOST-SUFFIX,netfirms.com,Outside
-HOST-SUFFIX,netflav.com,Outside
+# HOST-SUFFIX,netflav.com,Outside
 HOST-SUFFIX,netflix.com,Outside
 HOST-SUFFIX,netflix.net,Outside
 HOST-SUFFIX,netme.cc,Outside
