@@ -693,7 +693,7 @@ HOST-KEYWORD,dropbox,Outside
 HOST-KEYWORD,facebook,Outside
 HOST-KEYWORD,github,Outside
 HOST-KEYWORD,instagram,Outside
-HOST-KEYWORD,twitter,Outside
+# HOST-KEYWORD,twitter,Outside
 # HOST-KEYWORD,whatsapp,Outside
 HOST-KEYWORD,google,Outside
 HOST-SUFFIX,google.cn,Outside
@@ -5787,16 +5787,6 @@ HOST-SUFFIX,twitoaster.com,Outside
 HOST-SUFFIX,twitonmsn.com,Outside
 HOST-SUFFIX,twitstat.com,Outside
 HOST-SUFFIX,twittbot.net,Outside
-HOST-SUFFIX,twitter.com,Outside
-HOST-SUFFIX,twitter.jp,Outside
-HOST-SUFFIX,twitter4j.org,Outside
-HOST-SUFFIX,twittercounter.com,Outside
-HOST-SUFFIX,twitterfeed.com,Outside
-HOST-SUFFIX,twittergadget.com,Outside
-HOST-SUFFIX,twitterkr.com,Outside
-HOST-SUFFIX,twittermail.com,Outside
-HOST-SUFFIX,twitterrific.com,Outside
-HOST-SUFFIX,twittertim.es,Outside
 HOST-SUFFIX,twitturk.com,Outside
 HOST-SUFFIX,twitturly.com,Outside
 HOST-SUFFIX,twitvid.com,Outside
