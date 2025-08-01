@@ -691,7 +691,7 @@ HOST-KEYWORD,beetalk,Outside
 HOST-KEYWORD,blogspot,Outside
 HOST-KEYWORD,dropbox,Outside
 HOST-KEYWORD,facebook,Outside
-HOST-KEYWORD,github,Outside
+# HOST-KEYWORD,github,Outside
 HOST-KEYWORD,instagram,Outside
 # HOST-KEYWORD,twitter,Outside
 # HOST-KEYWORD,whatsapp,Outside
@@ -2675,13 +2675,13 @@ HOST-SUFFIX,gigporno.ru,Outside
 HOST-SUFFIX,girlbanker.com,Outside
 HOST-SUFFIX,gitbooks.io,Outside
 HOST-SUFFIX,githack.com,Outside
-HOST-SUFFIX,github.blog,Outside
-HOST-SUFFIX,github.com,Outside
-HOST-SUFFIX,github.io,Outside
-HOST-SUFFIX,githubapp.com,Outside
-HOST-SUFFIX,githubassets.com,Outside
-HOST-SUFFIX,githubusercontent.com,Outside
-HOST-SUFFIX,gitlab.com,Outside
+# HOST-SUFFIX,github.blog,Outside
+# HOST-SUFFIX,github.com,Outside
+# HOST-SUFFIX,github.io,Outside
+# HOST-SUFFIX,githubapp.com,Outside
+# HOST-SUFFIX,githubassets.com,Outside
+# HOST-SUFFIX,githubusercontent.com,Outside
+# HOST-SUFFIX,gitlab.com,Outside
 HOST-SUFFIX,gitlab.io,Outside
 HOST-SUFFIX,gizlen.net,Outside
 HOST-SUFFIX,gjczz.com,Outside
@@ -4823,7 +4823,7 @@ HOST-SUFFIX,raremovie.net,Outside
 HOST-SUFFIX,rateyourmusic.com,Outside
 HOST-SUFFIX,rationalwiki.org,Outside
 HOST-SUFFIX,rawgit.com,Outside
-HOST-SUFFIX,rawgithub.com,Outside
+# HOST-SUFFIX,rawgithub.com,Outside
 HOST-SUFFIX,raxcdn.com,Outside
 HOST-SUFFIX,razyboard.com,Outside
 HOST-SUFFIX,rcinet.ca,Outside
