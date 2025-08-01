@@ -3507,7 +3507,7 @@ HOST-SUFFIX,javfor.me,Outside
 HOST-SUFFIX,javhip.com,Outside
 HOST-SUFFIX,javhub.net,Outside
 HOST-SUFFIX,javhuge.com,Outside
-HOST-SUFFIX,javlibrary.com,Outside
+# HOST-SUFFIX,javlibrary.com,Outside
 HOST-SUFFIX,javmobile.net,Outside
 HOST-SUFFIX,javmoo.com,Outside
 HOST-SUFFIX,javmoo.xyz,Outside
