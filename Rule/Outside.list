@@ -6144,8 +6144,6 @@ HOST-SUFFIX,woopie.tv,Outside
 HOST-SUFFIX,workatruna.com,Outside
 HOST-SUFFIX,workerdemo.org.hk,Outside
 HOST-SUFFIX,workerempowerment.org,Outside
-HOST-SUFFIX,workers.dev,Outside
-HOST-SUFFIX,workersthebig.net,Outside
 HOST-SUFFIX,worldjournal.com,Outside
 HOST-SUFFIX,worldvpn.net,Outside
 HOST-SUFFIX,wow-life.net,Outside
@@ -6460,6 +6458,9 @@ IP-CIDR,220.181.174.34/32,Outside
 IP-CIDR,34.224.0.0/12,Outside
 IP-CIDR,50.22.198.204/30,Outside
 IP-CIDR,54.242.0.0/15,Outside
+
+HOST-SUFFIX,workersthebig.net,Outside
+# HOST-SUFFIX,workers.dev,Outside
 
 # HOST-SUFFIX,cloudflare.com,Outside
 # HOST-SUFFIX,javbus.com,Outside
