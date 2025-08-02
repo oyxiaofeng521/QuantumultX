@@ -4,7 +4,7 @@ HOST-SUFFIX,mexc.cg,Mexc
 HOST-SUFFIX,mexc.ci,Mexc
 HOST-SUFFIX,mexc.sg,Mexc
 
-# DOMAIN-KEYWORD,mexc,Mexc
+DOMAIN-KEYWORD,mexc,Mexc
 HOST-KEYWORD,mexc,Mexc
 HOST-KEYWORD,mexcsensors,Mexc
 HOST-KEYWORD,greentreeone,Mexc
