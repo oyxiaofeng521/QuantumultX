@@ -46,3 +46,7 @@ IP-ASN,20473,OpenAI
 
 HOST-KEYWORD,falcoonline,OpenAI
 
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN-SUFFIX,chat.openai.com,OpenAI
+DOMAIN-SUFFIX,cdn.openai.com,OpenAI
+
