@@ -1,50 +1,50 @@
 # 数字货币
 # CEFI
-HOST-SUFFIX,aex.com,Cryptocurrency
-HOST-SUFFIX,bibox.com,Cryptocurrency
-HOST-SUFFIX,binance.cc,Cryptocurrency
-HOST-SUFFIX,binance.com,Cryptocurrency
-HOST-SUFFIX,binance.info,Cryptocurrency
-HOST-SUFFIX,binance.cloud,Cryptocurrency
-HOST-SUFFIX,bntrace.com,Cryptocurrency
-HOST-SUFFIX,binancefuture.com,Cryptocurrency
-HOST-SUFFIX,bnappzh.com,Cryptocurrency
-HOST-SUFFIX,bnbstatic.com,Cryptocurrency
-HOST-SUFFIX,binance.im,Cryptocurrency
-HOST-SUFFIX,binance.me,Cryptocurrency
-HOST-SUFFIX,bybit.com,Cryptocurrency
-HOST-SUFFIX,bitcointalk.org,Cryptocurrency
-HOST-SUFFIX,bitfinex.com,Cryptocurrency
-HOST-SUFFIX,bitmex.com,Cryptocurrency
-HOST-SUFFIX,ftx.com,Cryptocurrency
-HOST-SUFFIX,ftx.tech,Cryptocurrency
-HOST-SUFFIX,ftx.digital,Cryptocurrency
-HOST-SUFFIX,ftx.io,Cryptocurrency
-HOST-SUFFIX,gate.io,Cryptocurrency
-HOST-SUFFIX,gate.com,Cryptocurrency
-HOST-SUFFIX,huobi.com,Cryptocurrency
-HOST-KEYWORD,huobi,Cryptocurrency
-HOST-SUFFIX,kucoin.com,Cryptocurrency
-HOST-SUFFIX,okex.com,Cryptocurrency
-HOST-SUFFIX,sushi.com,Cryptocurrency
-HOST-SUFFIX,uniswap.org,Cryptocurrency
-HOST-SUFFIX,zb.com,Cryptocurrency
-HOST-SUFFIX,huobiasia.club,Cryptocurrency
-HOST-SUFFIX,huobiasia.vip,Cryptocurrency
-HOST-SUFFIX,xfilecache.com,Cryptocurrency
-HOST-SUFFIX,woodpeckerlog.com,Cryptocurrency
-HOST-SUFFIX,bitvj.com,Cryptocurrency
-HOST-SUFFIX,bitvk.com,Cryptocurrency
-HOST-SUFFIX,bitderiv.com,Cryptocurrency
-HOST-SUFFIX,hbabit.com,Cryptocurrency
-HOST-SUFFIX,pexpay.com,Cryptocurrency
-HOST-SUFFIX,easycoins.com,Cryptocurrency
-HOST-SUFFIX,forter.com,Cryptocurrency
-HOST-SUFFIX,xcoinsystem.com,Cryptocurrency
-HOST-SUFFIX,bitget.com,Cryptocurrency
-# HOST-SUFFIX,bitgetapp.com,Cryptocurrency
-# HOST-SUFFIX,bitgetapps.com,Cryptocurrency
-HOST-SUFFIX,9ibp.com,Cryptocurrency
+DOMAIN-SUFFIX,aex.com,Cryptocurrency
+DOMAIN-SUFFIX,bibox.com,Cryptocurrency
+DOMAIN-SUFFIX,binance.cc,Cryptocurrency
+DOMAIN-SUFFIX,binance.com,Cryptocurrency
+DOMAIN-SUFFIX,binance.info,Cryptocurrency
+DOMAIN-SUFFIX,binance.cloud,Cryptocurrency
+DOMAIN-SUFFIX,bntrace.com,Cryptocurrency
+DOMAIN-SUFFIX,binancefuture.com,Cryptocurrency
+DOMAIN-SUFFIX,bnappzh.com,Cryptocurrency
+DOMAIN-SUFFIX,bnbstatic.com,Cryptocurrency
+DOMAIN-SUFFIX,binance.im,Cryptocurrency
+DOMAIN-SUFFIX,binance.me,Cryptocurrency
+DOMAIN-SUFFIX,bybit.com,Cryptocurrency
+DOMAIN-SUFFIX,bitcointalk.org,Cryptocurrency
+DOMAIN-SUFFIX,bitfinex.com,Cryptocurrency
+DOMAIN-SUFFIX,bitmex.com,Cryptocurrency
+DOMAIN-SUFFIX,ftx.com,Cryptocurrency
+DOMAIN-SUFFIX,ftx.tech,Cryptocurrency
+DOMAIN-SUFFIX,ftx.digital,Cryptocurrency
+DOMAIN-SUFFIX,ftx.io,Cryptocurrency
+DOMAIN-SUFFIX,gate.io,Cryptocurrency
+DOMAIN-SUFFIX,gate.com,Cryptocurrency
+DOMAIN-SUFFIX,huobi.com,Cryptocurrency
+DOMAIN-KEYWORD,huobi,Cryptocurrency
+DOMAIN-SUFFIX,kucoin.com,Cryptocurrency
+DOMAIN-SUFFIX,okex.com,Cryptocurrency
+DOMAIN-SUFFIX,sushi.com,Cryptocurrency
+DOMAIN-SUFFIX,uniswap.org,Cryptocurrency
+DOMAIN-SUFFIX,zb.com,Cryptocurrency
+DOMAIN-SUFFIX,huobiasia.club,Cryptocurrency
+DOMAIN-SUFFIX,huobiasia.vip,Cryptocurrency
+DOMAIN-SUFFIX,xfilecache.com,Cryptocurrency
+DOMAIN-SUFFIX,woodpeckerlog.com,Cryptocurrency
+DOMAIN-SUFFIX,bitvj.com,Cryptocurrency
+DOMAIN-SUFFIX,bitvk.com,Cryptocurrency
+DOMAIN-SUFFIX,bitderiv.com,Cryptocurrency
+DOMAIN-SUFFIX,hbabit.com,Cryptocurrency
+DOMAIN-SUFFIX,pexpay.com,Cryptocurrency
+DOMAIN-SUFFIX,easycoins.com,Cryptocurrency
+DOMAIN-SUFFIX,forter.com,Cryptocurrency
+DOMAIN-SUFFIX,xcoinsystem.com,Cryptocurrency
+DOMAIN-SUFFIX,bitget.com,Cryptocurrency
+# DOMAIN-SUFFIX,bitgetapp.com,Cryptocurrency
+# DOMAIN-SUFFIX,bitgetapps.com,Cryptocurrency
+DOMAIN-SUFFIX,9ibp.com,Cryptocurrency
 
 DOMAIN-KEYWORD,binance,Cryptocurrency
 DOMAIN-KEYWORD,gate,Cryptocurrency
@@ -54,101 +54,95 @@ DOMAIN-KEYWORD,kucoin,Cryptocurrency
 DOMAIN-KEYWORD,okx,Cryptocurrency
 DOMAIN-KEYWORD,huobi,Cryptocurrency
 
-HOST-KEYWORD,binance,Cryptocurrency
-HOST-KEYWORD,gate,Cryptocurrency
-HOST-KEYWORD,bitget,Cryptocurrency
-HOST-KEYWORD,bybit,Cryptocurrency
-HOST-KEYWORD,kucoin,Cryptocurrency
-HOST-KEYWORD,okx,Cryptocurrency
 
 # Defi
-HOST-SUFFIX,mdex.com,Cryptocurrency
-HOST-SUFFIX,mdex.me,Cryptocurrency
-HOST-SUFFIX,mdex.co,Cryptocurrency
-HOST-SUFFIX,mdex.cc,Cryptocurrency
-HOST-SUFFIX,coinwind.com,Cryptocurrency
-HOST-SUFFIX,coinwind.pro,Cryptocurrency
-HOST-SUFFIX,sun.io,Cryptocurrency
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,depth.fi,Cryptocurrency
-HOST-SUFFIX,hswap.com,Cryptocurrency
-HOST-SUFFIX,coin.top,Cryptocurrency
-HOST-SUFFIX,westarter.org,Cryptocurrency
+DOMAIN-SUFFIX,mdex.com,Cryptocurrency
+DOMAIN-SUFFIX,mdex.me,Cryptocurrency
+DOMAIN-SUFFIX,mdex.co,Cryptocurrency
+DOMAIN-SUFFIX,mdex.cc,Cryptocurrency
+DOMAIN-SUFFIX,coinwind.com,Cryptocurrency
+DOMAIN-SUFFIX,coinwind.pro,Cryptocurrency
+DOMAIN-SUFFIX,sun.io,Cryptocurrency
+DOMAIN-SUFFIX,justswap.io,Cryptocurrency
+DOMAIN-SUFFIX,depth.fi,Cryptocurrency
+DOMAIN-SUFFIX,hswap.com,Cryptocurrency
+DOMAIN-SUFFIX,coin.top,Cryptocurrency
+DOMAIN-SUFFIX,westarter.org,Cryptocurrency
 
 # Wallet
-HOST-SUFFIX,hbwallet.net,Cryptocurrency
-HOST-SUFFIX,mytokenpocket.vip,Cryptocurrency
-HOST-SUFFIX,tokenpocket.pro,Cryptocurrency
-HOST-SUFFIX,tronlink.org,Cryptocurrency
-HOST-SUFFIX,hbwalletapi.net,Cryptocurrency
-HOST-SUFFIX,quickwallet.io,Cryptocurrency
-HOST-SUFFIX,metamask.io,Cryptocurrency
+DOMAIN-SUFFIX,hbwallet.net,Cryptocurrency
+DOMAIN-SUFFIX,mytokenpocket.vip,Cryptocurrency
+DOMAIN-SUFFIX,tokenpocket.pro,Cryptocurrency
+DOMAIN-SUFFIX,tronlink.org,Cryptocurrency
+DOMAIN-SUFFIX,hbwalletapi.net,Cryptocurrency
+DOMAIN-SUFFIX,quickwallet.io,Cryptocurrency
+DOMAIN-SUFFIX,metamask.io,Cryptocurrency
 
 # Miner
-HOST-SUFFIX,unmineable.com,Cryptocurrency
-HOST-SUFFIX,unminable.com,Cryptocurrency
+DOMAIN-SUFFIX,unmineable.com,Cryptocurrency
+DOMAIN-SUFFIX,unminable.com,Cryptocurrency
 
 # Chain
-HOST-SUFFIX,hecochain.com,Cryptocurrency
-HOST-SUFFIX,tronalliance.com,Cryptocurrency
-HOST-SUFFIX,tronalliance.cc,Cryptocurrency
-HOST-SUFFIX,trongrid.io,Cryptocurrency
-HOST-SUFFIX,infura.io,Cryptocurrency
-HOST-SUFFIX,binance.org,Cryptocurrency
-HOST-SUFFIX,http-mainnet-node.huobichain.com,Cryptocurrency
+DOMAIN-SUFFIX,hecochain.com,Cryptocurrency
+DOMAIN-SUFFIX,tronalliance.com,Cryptocurrency
+DOMAIN-SUFFIX,tronalliance.cc,Cryptocurrency
+DOMAIN-SUFFIX,trongrid.io,Cryptocurrency
+DOMAIN-SUFFIX,infura.io,Cryptocurrency
+DOMAIN-SUFFIX,binance.org,Cryptocurrency
+DOMAIN-SUFFIX,http-mainnet-node.huobichain.com,Cryptocurrency
 
 # Dapp
-HOST-SUFFIX,tronscan.io,Cryptocurrency
-HOST-SUFFIX,tronscan.org,Cryptocurrency
-HOST-SUFFIX,hogt.com,Cryptocurrency
-HOST-SUFFIX,yfx.com,Cryptocurrency
-HOST-SUFFIX,quickchart.io,Cryptocurrency
-HOST-SUFFIX,ajax.cloudflare.com,Cryptocurrency
-HOST-SUFFIX,coingecko.com,Cryptocurrency
-HOST-SUFFIX,min-api.cryptocompare.com,Cryptocurrency
-HOST-SUFFIX,wink.org,Cryptocurrency
-HOST-SUFFIX,faviconkit.com,Cryptocurrency
-HOST-SUFFIX,sgem.io,Cryptocurrency
-HOST-SUFFIX,hubbleprotocol.io,Cryptocurrency
-HOST-SUFFIX,raydium.io,Cryptocurrency
-HOST-SUFFIX,layerswap.io,Cryptocurrency
-HOST-SUFFIX,saros.finance,Cryptocurrency
-HOST-SUFFIX,coin98.services,Cryptocurrency
-HOST-SUFFIX,coin98.com,Cryptocurrency
-HOST-SUFFIX,onesignal.com,Cryptocurrency
-HOST-SUFFIX,genesysgo.net,Cryptocurrency
-HOST-SUFFIX,dappback.com,Cryptocurrency 
-HOST-SUFFIX,galxe.com,Cryptocurrency
-HOST-SUFFIX,quest3.xyz,Cryptocurrency
-HOST-SUFFIX,pyme.id,Cryptocurrency
-HOST-SUFFIX,pyme.team,Cryptocurrency
-HOST-SUFFIX,coindix.com,Cryptocurrency
-HOST-SUFFIX,solend.fi,Cryptocurrency
-HOST-SUFFIX,galaxy.eco,Cryptocurrency
+DOMAIN-SUFFIX,tronscan.io,Cryptocurrency
+DOMAIN-SUFFIX,tronscan.org,Cryptocurrency
+DOMAIN-SUFFIX,hogt.com,Cryptocurrency
+DOMAIN-SUFFIX,yfx.com,Cryptocurrency
+DOMAIN-SUFFIX,quickchart.io,Cryptocurrency
+DOMAIN-SUFFIX,ajax.cloudflare.com,Cryptocurrency
+DOMAIN-SUFFIX,coingecko.com,Cryptocurrency
+DOMAIN-SUFFIX,min-api.cryptocompare.com,Cryptocurrency
+DOMAIN-SUFFIX,wink.org,Cryptocurrency
+DOMAIN-SUFFIX,faviconkit.com,Cryptocurrency
+DOMAIN-SUFFIX,sgem.io,Cryptocurrency
+DOMAIN-SUFFIX,hubbleprotocol.io,Cryptocurrency
+DOMAIN-SUFFIX,raydium.io,Cryptocurrency
+DOMAIN-SUFFIX,layerswap.io,Cryptocurrency
+DOMAIN-SUFFIX,saros.finance,Cryptocurrency
+DOMAIN-SUFFIX,coin98.services,Cryptocurrency
+DOMAIN-SUFFIX,coin98.com,Cryptocurrency
+DOMAIN-SUFFIX,onesignal.com,Cryptocurrency
+DOMAIN-SUFFIX,genesysgo.net,Cryptocurrency
+DOMAIN-SUFFIX,dappback.com,Cryptocurrency 
+DOMAIN-SUFFIX,galxe.com,Cryptocurrency
+DOMAIN-SUFFIX,quest3.xyz,Cryptocurrency
+DOMAIN-SUFFIX,pyme.id,Cryptocurrency
+DOMAIN-SUFFIX,pyme.team,Cryptocurrency
+DOMAIN-SUFFIX,coindix.com,Cryptocurrency
+DOMAIN-SUFFIX,solend.fi,Cryptocurrency
+DOMAIN-SUFFIX,galaxy.eco,Cryptocurrency
 
 # Swap
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,just.network,Cryptocurrency
+DOMAIN-SUFFIX,justswap.io,Cryptocurrency
+DOMAIN-SUFFIX,just.network,Cryptocurrency
 
 # News
-HOST-SUFFIX,bishijie.com,Cryptocurrency
-HOST-SUFFIX,blocktempo.com,Cryptocurrency
-HOST-SUFFIX,chainnews.com,Cryptocurrency
-HOST-SUFFIX,theblockbeats.info,Cryptocurrency
+DOMAIN-SUFFIX,bishijie.com,Cryptocurrency
+DOMAIN-SUFFIX,blocktempo.com,Cryptocurrency
+DOMAIN-SUFFIX,chainnews.com,Cryptocurrency
+DOMAIN-SUFFIX,theblockbeats.info,Cryptocurrency
 
 # Info
-HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
-HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
-HOST-SUFFIX,aicoin.cn,Cryptocurrency
-HOST-SUFFIX,bqiapp.com,Cryptocurrency
-HOST-SUFFIX,bqrank.net,Cryptocurrency
-HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
-HOST-SUFFIX,aicoin.com,Cryptocurrency
-HOST-SUFFIX,sardine.ai,Cryptocurrency
-HOST-SUFFIX,mirror.xyz,Cryptocurrency
+DOMAIN-SUFFIX,coinmarketcap.com,Cryptocurrency
+DOMAIN-SUFFIX,feixiaoquan.com,Cryptocurrency
+DOMAIN-SUFFIX,aicoin.cn,Cryptocurrency
+DOMAIN-SUFFIX,bqiapp.com,Cryptocurrency
+DOMAIN-SUFFIX,bqrank.net,Cryptocurrency
+DOMAIN-SUFFIX,chainfeeds.xyz,Cryptocurrency
+DOMAIN-SUFFIX,aicoin.com,Cryptocurrency
+DOMAIN-SUFFIX,sardine.ai,Cryptocurrency
+DOMAIN-SUFFIX,mirror.xyz,Cryptocurrency
 
 #NFT
-HOST-SUFFIX,solsea.io,Cryptocurrency
+DOMAIN-SUFFIX,solsea.io,Cryptocurrency
 
 #Hardware Wallet
-HOST-SUFFIX,ledger.com,Cryptocurrency
+DOMAIN-SUFFIX,ledger.com,Cryptocurrency
