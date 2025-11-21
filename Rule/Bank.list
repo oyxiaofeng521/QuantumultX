@@ -120,3 +120,9 @@ HOST-SUFFIX,livi.com,Bank
 
 HOST-SUFFIX,hsbc.com.cn,Bank
 HOST-SUFFIX,hsbc.com.hk,Bank
+
+HOST-KEYWORD,usmart,Bank
+HOST-KEYWORD,usmartsg,Bank
+HOST-KEYWORD,usmartglobal,Bank
+HOST-KEYWORD,usmartsecurities,Bank
+HOST-KEYWORD,usmart8,Bank
