@@ -35,6 +35,7 @@ HOST-KEYWORD,apiproxy-device-prod-nlb-,Netflix
 HOST-KEYWORD,dualstack.apiproxy-,Netflix
 HOST-KEYWORD,dualstack.ichnaea-web-,Netflix
 HOST-KEYWORD,netflixdnstest,Netflix
+HOST-KEYWORD,netflix,Netflix
 USER-AGENT,Argo*,Netflix
 # IP-CIDR,103.87.204.0/22,Netflix
 # IP-CIDR,107.23.255.0/26,Netflix
