@@ -42,8 +42,8 @@ DOMAIN-SUFFIX,easycoins.com,Cryptocurrency
 DOMAIN-SUFFIX,forter.com,Cryptocurrency
 DOMAIN-SUFFIX,xcoinsystem.com,Cryptocurrency
 DOMAIN-SUFFIX,bitget.com,Cryptocurrency
-# DOMAIN-SUFFIX,bitgetapp.com,Cryptocurrency
-# DOMAIN-SUFFIX,bitgetapps.com,Cryptocurrency
+DOMAIN-SUFFIX,bitgetapp.com,Cryptocurrency
+DOMAIN-SUFFIX,bitgetapps.com,Cryptocurrency
 DOMAIN-SUFFIX,9ibp.com,Cryptocurrency
 
 DOMAIN-KEYWORD,binance,Cryptocurrency
