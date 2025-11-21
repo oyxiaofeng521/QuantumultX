@@ -11,7 +11,7 @@
 
 HOST-SUFFIX,facebook.com,Facebook
 HOST-KEYWORD,facebook,Facebook
-DOMAIN-KEYWORD,facebook,Facebook
+# DOMAIN-KEYWORD,facebook,Facebook
 
 
 # HOST,fbcdn-a.akamaihd.net,Facebook
