@@ -6,3 +6,5 @@ HOST-KEYWORD,6666b,China
 HOST-KEYWORD,kuaimao2,China
 HOST-KEYWORD,svcloud,China
 HOST-KEYWORD,mitce,China
+
+IP-CIDR,47.76.34.104/32,China
