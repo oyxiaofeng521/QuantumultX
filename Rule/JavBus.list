@@ -13,7 +13,9 @@ HOST-KEYWORD,recbotav.map,JavBus
 HOST-KEYWORD,recav,JavBus
 HOST-KEYWORD,recav.map,JavBus
 HOST-KEYWORD,gitlab,JavBus
-HOST-KEYWORD,awsimgsrc,JavBus
+
 
 HOST-KEYWORD,jdforrepam,JavBus
 HOST-KEYWORD,jdbstatic,JavBus
+HOST-KEYWORD,awsimgsrc,JavBus
+HOST-KEYWORD,autonavi,JavBus
