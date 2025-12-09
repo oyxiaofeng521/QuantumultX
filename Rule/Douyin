@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,iesdouyin.com,DIRECT
+DOMAIN-SUFFIX,douyinstatic.com,DIRECT
+DOMAIN-SUFFIX,ixigua.com,DIRECT
+DOMAIN-SUFFIX,amemv.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-KEYWORD,tiktok,DIRECT
+DOMAIN-SUFFIX,musical.ly,DIRECT
+# 以下为可能影响搜索和内容加载的关键域名
+DOMAIN-SUFFIX,aweme.snssdk.com,DIRECT
+DOMAIN-SUFFIX,log.snssdk.com,DIRECT
+DOMAIN-SUFFIX,p3-search.douyin.com,DIRECT
