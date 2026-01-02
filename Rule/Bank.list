@@ -116,6 +116,9 @@ HOST-SUFFIX,bankcomm.com.tw,Bank
 HOST-SUFFIX,bank.za,Bank
 HOST-KEYWORD,bankappgw,Bank
 
+HOST-KEYWORD,antbank,Bank
+HOST-KEYWORD,mybank,Bank
+
 HOST-SUFFIX,livibank.com,Bank
 HOST-SUFFIX,livi.com,Bank
 
