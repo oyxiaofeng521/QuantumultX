@@ -118,6 +118,8 @@ HOST-KEYWORD,bankappgw,Bank
 
 HOST-KEYWORD,antbank,Bank
 HOST-KEYWORD,mybank,Bank
+HOST-KEYWORD,airstarbank,Bank
+HOST-KEYWORD,finance,Bank
 
 HOST-SUFFIX,livibank.com,Bank
 HOST-SUFFIX,livi.com,Bank
