@@ -114,6 +114,9 @@ HOST-SUFFIX,bankcomm.com.au,Bank
 HOST-SUFFIX,bankcomm.com.mo,Bank
 HOST-SUFFIX,bankcomm.com.tw,Bank
 
+HOST-KEYWORD,citicbank,Bank
+HOST-KEYWORD,cncbinternational,Bank
+
 HOST-SUFFIX,bank.za,Bank
 HOST-KEYWORD,bankappgw,Bank
 
