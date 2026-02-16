@@ -18,6 +18,7 @@ HOST-KEYWORD,gscloud,Global
 HOST-KEYWORD,kelee,Global
 HOST-KEYWORD,rsshub,Global
 HOST-KEYWORD,flurry,Global
+HOST-KEYWORD,dashboard,Global
 
 
 
@@ -29014,5 +29015,4 @@ HOST-KEYWORD,flurry,Global
 # HOST-SUFFIX,incapdns.net,Global
 # HOST-SUFFIX,incredibox.fr,Global
 # HOST-SUFFIX,independent.co.uk,Global
-# HOST-SUFFIX,india.com,Global
-# HOST-SUFFI
+# HOST-SUFFIX,in
