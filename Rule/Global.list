@@ -13,14 +13,16 @@
 
 HOST-SUFFIX,alpha123.uk,Global
 
+HOST-KEYWORD,realvnc,Global
+HOST-KEYWORD,vncviewer,Global
+
 HOST-KEYWORD,gscloud,Global
 HOST-KEYWORD,kelee,Global
 HOST-KEYWORD,rsshub,Global
 HOST-KEYWORD,flurry,Global
 HOST-KEYWORD,dashboard,Global
 
-HOST-KEYWORD,realvnc,Global
-HOST-KEYWORD,vncviewer,Global
+
 
 
 # HOST,1password.drift.click,Global
@@ -29014,5 +29016,4 @@ HOST-KEYWORD,vncviewer,Global
 # HOST-SUFFIX,in.com,Global
 # HOST-SUFFIX,in99.org,Global
 # HOST-SUFFIX,incapdns.net,Global
-# HOST-SUFFIX,incredibox.fr,Global
-# HOST-SUFFIX,independent
+# HOST-SUFFIX,incredibox.fr,G
