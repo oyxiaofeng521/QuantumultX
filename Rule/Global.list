@@ -12,7 +12,6 @@
 
 
 HOST-SUFFIX,alpha123.uk,Global
-HOST-KEYWORD,aicoin,Global
 
 HOST-KEYWORD,gscloud,Global
 HOST-KEYWORD,kelee,Global
@@ -29014,5 +29013,4 @@ HOST-KEYWORD,dashboard,Global
 # HOST-SUFFIX,in99.org,Global
 # HOST-SUFFIX,incapdns.net,Global
 # HOST-SUFFIX,incredibox.fr,Global
-# HOST-SUFFIX,independent.co.uk,Global
-# HOST-SUFFIX,in
+# HOST-SUFFIX,independent
