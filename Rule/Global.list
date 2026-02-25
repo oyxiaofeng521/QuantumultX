@@ -18,7 +18,9 @@ HOST-KEYWORD,kelee,Global
 HOST-KEYWORD,rsshub,Global
 HOST-KEYWORD,flurry,Global
 HOST-KEYWORD,dashboard,Global
+
 HOST-KEYWORD,realvnc,Global
+HOST-KEYWORD,vncviewer,Global
 
 
 # HOST,1password.drift.click,Global
