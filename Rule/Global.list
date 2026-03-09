@@ -21,8 +21,8 @@ HOST-KEYWORD,kelee,Global
 HOST-KEYWORD,rsshub,Global
 HOST-KEYWORD,flurry,Global
 HOST-KEYWORD,dashboard,Global
-
-
+HOST-KEYWORD,mycard520,Global
+HOST-SUFFIX,mycard520.com,Global
 
 
 # HOST,1password.drift.click,Global
@@ -29016,4 +29016,4 @@ HOST-KEYWORD,dashboard,Global
 # HOST-SUFFIX,in.com,Global
 # HOST-SUFFIX,in99.org,Global
 # HOST-SUFFIX,incapdns.net,Global
-# HOST-SUFFIX,incredibox.fr,G
+# HOST-SUFFIX,incredibox.fr
