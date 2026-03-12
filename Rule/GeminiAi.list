@@ -1,0 +1,24 @@
+# XIAOFENG
+# Gemini 核心域名
+DOMAIN,gemini.google.com,Proxy
+DOMAIN,bard.google.com,Proxy
+DOMAIN,ai.google.dev,Proxy
+DOMAIN,aistudio.google.com,Proxy
+
+# AI API
+DOMAIN,generativelanguage.googleapis.com,Proxy
+DOMAIN,alkalimakersuite-pa.clients6.google.com,Proxy
+
+# Google API
+DOMAIN-SUFFIX,googleapis.com,Proxy
+DOMAIN-SUFFIX,gstatic.com,Proxy
+
+# Google 基础服务
+DOMAIN-SUFFIX,google.com,Proxy
+DOMAIN-SUFFIX,googleusercontent.com,Proxy
+DOMAIN-SUFFIX,ggpht.com,Proxy
+
+# AI / 模型相关
+DOMAIN-SUFFIX,deepmind.com,Proxy
+DOMAIN-SUFFIX,withgoogle.com,Proxy
+DOMAIN-SUFFIX,tensorflow.org,Proxy
