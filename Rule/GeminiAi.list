@@ -1,24 +1,42 @@
 # XIAOFENG
-# Gemini 核心域名
+# Gemini# ==============================
+# Google Gemini 核心
+# ==============================
 DOMAIN,gemini.google.com,Proxy
 DOMAIN,bard.google.com,Proxy
 DOMAIN,ai.google.dev,Proxy
 DOMAIN,aistudio.google.com,Proxy
 
-# AI API
+# ==============================
+# AI API 接口（关键）
+# ==============================
 DOMAIN,generativelanguage.googleapis.com,Proxy
 DOMAIN,alkalimakersuite-pa.clients6.google.com,Proxy
+DOMAIN,genie.googleapis.com,Proxy
+DOMAIN-SUFFIX,genai.google.com,Proxy
 
+# ==============================
 # Google API
+# ==============================
 DOMAIN-SUFFIX,googleapis.com,Proxy
 DOMAIN-SUFFIX,gstatic.com,Proxy
-
-# Google 基础服务
-DOMAIN-SUFFIX,google.com,Proxy
-DOMAIN-SUFFIX,googleusercontent.com,Proxy
 DOMAIN-SUFFIX,ggpht.com,Proxy
+DOMAIN-SUFFIX,googleusercontent.com,Proxy
 
-# AI / 模型相关
-DOMAIN-SUFFIX,deepmind.com,Proxy
+# ==============================
+# Google 基础服务（保证账号验证正常）
+# ==============================
+DOMAIN-SUFFIX,google.com,Proxy
 DOMAIN-SUFFIX,withgoogle.com,Proxy
+DOMAIN-SUFFIX,deepmind.com,Proxy
 DOMAIN-SUFFIX,tensorflow.org,Proxy
+DOMAIN-SUFFIX,cloud.google.com,Proxy
+DOMAIN-SUFFIX,dialogflow.com,Proxy
+
+# ==============================
+# Optional AI / 模型相关
+# ==============================
+DOMAIN-SUFFIX,vertex.ai,Proxy
+DOMAIN-SUFFIX,cloudfunctions.net,Proxy
+DOMAIN-SUFFIX,googleapis.cn,Proxy
+DOMAIN-SUFFIX,openai.com,Proxy
