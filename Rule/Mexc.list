@@ -9,3 +9,7 @@ HOST-KEYWORD,mexc,Mexc
 HOST-KEYWORD,mexcsensors,Mexc
 HOST-KEYWORD,greentreeone,Mexc
 HOST-KEYWORD,mocortech,Mexc
+
+
+DOMAIN-SUFFIX,bybit.com,Mexc
+DOMAIN-KEYWORD,bybit,Mexc
