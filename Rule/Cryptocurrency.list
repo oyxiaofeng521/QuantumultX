@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,bnappzh.com,Cryptocurrency
 DOMAIN-SUFFIX,bnbstatic.com,Cryptocurrency
 DOMAIN-SUFFIX,binance.im,Cryptocurrency
 DOMAIN-SUFFIX,binance.me,Cryptocurrency
-DOMAIN-SUFFIX,bybit.com,Cryptocurrency
 DOMAIN-SUFFIX,bitcointalk.org,Cryptocurrency
 DOMAIN-SUFFIX,bitfinex.com,Cryptocurrency
 DOMAIN-SUFFIX,bitmex.com,Cryptocurrency
@@ -49,7 +48,6 @@ DOMAIN-SUFFIX,9ibp.com,Cryptocurrency
 DOMAIN-KEYWORD,binance,Cryptocurrency
 DOMAIN-KEYWORD,gate,Cryptocurrency
 DOMAIN-KEYWORD,bitget,Cryptocurrency
-DOMAIN-KEYWORD,bybit,Cryptocurrency
 DOMAIN-KEYWORD,kucoin,Cryptocurrency
 DOMAIN-KEYWORD,okx,Cryptocurrency
 DOMAIN-KEYWORD,huobi,Cryptocurrency
@@ -146,3 +144,4 @@ DOMAIN-SUFFIX,solsea.io,Cryptocurrency
 
 #Hardware Wallet
 DOMAIN-SUFFIX,ledger.com,Cryptocurrency
+
