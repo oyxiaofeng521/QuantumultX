@@ -363,7 +363,6 @@ DOMAIN, scholar.google.co.id
 DOMAIN, scholar.google.co.il
 DOMAIN, scholar.google.co.in
 DOMAIN, api.waqi.info
-DOMAIN, bybit-exchange.github.io
 DOMAIN, live-patreon-marketing.pantheonsite.io
 DOMAIN, deribit.cdn.prismic.io
 DOMAIN, practivate.adobe.ipp
@@ -605,7 +604,6 @@ DOMAIN, spectator.ppy.sh
 DOMAIN, holoxx.f5.si
 DOMAIN, scholar.google.si
 DOMAIN, scholar.google.sk
-DOMAIN, bybit.ada.support
 DOMAIN, scholar.google.com.sv
 DOMAIN, scholar.google.co.th
 DOMAIN, rsshub.rss.tips
@@ -1099,7 +1097,6 @@ DOMAIN-SUFFIX, alienware.be
 DOMAIN-SUFFIX, alphabet.be
 DOMAIN-SUFFIX, apple.be
 DOMAIN-SUFFIX, async.be
-DOMAIN-SUFFIX, binancezh.be
 DOMAIN-SUFFIX, blogspot.be
 DOMAIN-SUFFIX, bmw.be
 DOMAIN-SUFFIX, bmw-connecteddrive.be
@@ -1222,9 +1219,7 @@ DOMAIN-SUFFIX, alphabet.biz
 DOMAIN-SUFFIX, amazonaws.biz
 DOMAIN-SUFFIX, apina.biz
 DOMAIN-SUFFIX, bigmoney.biz
-DOMAIN-SUFFIX, binancezh.biz
 DOMAIN-SUFFIX, boslife.biz
-DOMAIN-SUFFIX, bybit.biz
 DOMAIN-SUFFIX, cc18.biz
 DOMAIN-SUFFIX, cleansite.biz
 DOMAIN-SUFFIX, cuebic.biz
@@ -1827,8 +1822,6 @@ DOMAIN-SUFFIX, bdsmtv.cc
 DOMAIN-SUFFIX, beats1.cc
 DOMAIN-SUFFIX, bemywife.cc
 DOMAIN-SUFFIX, bili2.cc
-DOMAIN-SUFFIX, binance.cc
-DOMAIN-SUFFIX, binancezh.cc
 DOMAIN-SUFFIX, bitbank.cc
 DOMAIN-SUFFIX, bjini.cc
 DOMAIN-SUFFIX, blaoshi.cc
@@ -1865,7 +1858,6 @@ DOMAIN-SUFFIX, foxnews.cc
 DOMAIN-SUFFIX, fukzr1.cc
 DOMAIN-SUFFIX, gao1.cc
 DOMAIN-SUFFIX, gaofuwu.cc
-DOMAIN-SUFFIX, gate.cc
 DOMAIN-SUFFIX, gaymap.cc
 DOMAIN-SUFFIX, gaysitessearch.cc
 DOMAIN-SUFFIX, geeksquad.cc
@@ -2118,7 +2110,6 @@ DOMAIN-SUFFIX, wikileaks.ch
 DOMAIN-SUFFIX, yahoo.ch
 DOMAIN-SUFFIX, youtube.ch
 DOMAIN-SUFFIX, zert.ch
-DOMAIN-SUFFIX, binance.charity
 DOMAIN-SUFFIX, appleone.chat
 DOMAIN-SUFFIX, crisp.chat
 DOMAIN-SUFFIX, rocket.chat
@@ -2181,15 +2172,12 @@ DOMAIN-SUFFIX, 1lib.cloud
 DOMAIN-SUFFIX, anaconda.cloud
 DOMAIN-SUFFIX, appdomain.cloud
 DOMAIN-SUFFIX, appleone.cloud
-DOMAIN-SUFFIX, binance.cloud
-DOMAIN-SUFFIX, bybit.cloud
 DOMAIN-SUFFIX, epoch.cloud
 DOMAIN-SUFFIX, ero-labs.cloud
 DOMAIN-SUFFIX, erolabs.cloud
 DOMAIN-SUFFIX, globalsign.cloud
 DOMAIN-SUFFIX, hetzner.cloud
 DOMAIN-SUFFIX, hutao.cloud
-DOMAIN-SUFFIX, ipfs-gateway.cloud
 DOMAIN-SUFFIX, chatgpt.livekit.cloud
 DOMAIN-SUFFIX, host.livekit.cloud
 DOMAIN-SUFFIX, turn.livekit.cloud
@@ -2199,7 +2187,6 @@ DOMAIN-SUFFIX, misskey.cloud
 DOMAIN-SUFFIX, mdn.mozit.cloud
 DOMAIN-SUFFIX, oath.cloud
 DOMAIN-SUFFIX, paofu.cloud
-DOMAIN-SUFFIX, gateway.pinata.cloud
 DOMAIN-SUFFIX, renzhe.cloud
 DOMAIN-SUFFIX, soundcloud.cloud
 DOMAIN-SUFFIX, unirule.cloud
@@ -2284,8 +2271,6 @@ DOMAIN-SUFFIX, applemusic.co
 DOMAIN-SUFFIX, bbc.co
 DOMAIN-SUFFIX, bellesa.co
 DOMAIN-SUFFIX, betternet.co
-DOMAIN-SUFFIX, binance.co
-DOMAIN-SUFFIX, binancezh.co
 DOMAIN-SUFFIX, bitquick.co
 DOMAIN-SUFFIX, bmw-motorrad.co
 DOMAIN-SUFFIX, bnews.co
@@ -4357,10 +4342,6 @@ DOMAIN-SUFFIX, bimseeker.com
 DOMAIN-SUFFIX, bimsource.com
 DOMAIN-SUFFIX, bimworld.com
 DOMAIN-SUFFIX, binads.com
-DOMAIN-SUFFIX, binance.com
-DOMAIN-SUFFIX, binanceapi.com
-DOMAIN-SUFFIX, binancecnt.com
-DOMAIN-SUFFIX, binancezh.com
 DOMAIN-SUFFIX, bing.com
 DOMAIN-SUFFIX, bing123.com
 DOMAIN-SUFFIX, bingads.com
@@ -4387,7 +4368,6 @@ DOMAIN-SUFFIX, bitchute.com
 DOMAIN-SUFFIX, bitcoinworld.com
 DOMAIN-SUFFIX, bitfinex.com
 DOMAIN-SUFFIX, bitflyer.com
-DOMAIN-SUFFIX, bitget.com
 DOMAIN-SUFFIX, bithumb.com
 DOMAIN-SUFFIX, bitly.com
 DOMAIN-SUFFIX, bitmex.com
@@ -4713,7 +4693,6 @@ DOMAIN-SUFFIX, boyvid.com
 DOMAIN-SUFFIX, boyztube.com
 DOMAIN-SUFFIX, videosdesexo.br.com
 DOMAIN-SUFFIX, braeburncapital.com
-DOMAIN-SUFFIX, braintreegateway.com
 DOMAIN-SUFFIX, braintreepayments.com
 DOMAIN-SUFFIX, braintreepaymentsolutions.com
 DOMAIN-SUFFIX, braintreeps.com
@@ -4885,9 +4864,6 @@ DOMAIN-SUFFIX, byabcde.com
 DOMAIN-SUFFIX, byapis.com
 DOMAIN-SUFFIX, bybdc6.com
 DOMAIN-SUFFIX, bybeatsdre.com
-DOMAIN-SUFFIX, bybit.com
-DOMAIN-SUFFIX, bybit-global.com
-DOMAIN-SUFFIX, bybitglobal.com
 DOMAIN-SUFFIX, bycbe.com
 DOMAIN-SUFFIX, bycsi.com
 DOMAIN-SUFFIX, byd3c3.com
@@ -5343,7 +5319,6 @@ DOMAIN-SUFFIX, cloudflare.com
 DOMAIN-SUFFIX, cloudflare-dns.com
 DOMAIN-SUFFIX, cloudflare-ech.com
 DOMAIN-SUFFIX, cloudflare-esni.com
-DOMAIN-SUFFIX, cloudflare-gateway.com
 DOMAIN-SUFFIX, cloudflare-ipfs.com
 DOMAIN-SUFFIX, cloudflare-quic.com
 DOMAIN-SUFFIX, cloudflareaccess.com
@@ -7702,7 +7677,6 @@ DOMAIN-SUFFIX, geinoueroch.com
 DOMAIN-SUFFIX, gekikame.com
 DOMAIN-SUFFIX, gelbooru.com
 DOMAIN-SUFFIX, gemfury.com
-DOMAIN-SUFFIX, gemini.com
 DOMAIN-SUFFIX, geneticconstructor.com
 DOMAIN-SUFFIX, genitourinaryexam.com
 DOMAIN-SUFFIX, genius.com
@@ -12085,7 +12059,6 @@ DOMAIN-SUFFIX, polymarket.com
 DOMAIN-SUFFIX, polymerhk.com
 DOMAIN-SUFFIX, ponyanimalsex.com
 DOMAIN-SUFFIX, poofetish.com
-DOMAIN-SUFFIX, poolbinance.com
 DOMAIN-SUFFIX, poolin.com
 DOMAIN-SUFFIX, poopee-puke.com
 DOMAIN-SUFFIX, poopeegirls.com
@@ -14043,7 +14016,6 @@ DOMAIN-SUFFIX, thefacebook.com
 DOMAIN-SUFFIX, thefappeningblog.com
 DOMAIN-SUFFIX, thefind.com
 DOMAIN-SUFFIX, thefoxnation.com
-DOMAIN-SUFFIX, thegatewaypundit.com
 DOMAIN-SUFFIX, thegay.com
 DOMAIN-SUFFIX, thegayoffice.com
 DOMAIN-SUFFIX, thegeorgiascene.com
@@ -16393,7 +16365,6 @@ DOMAIN-SUFFIX, flutter.dev
 DOMAIN-SUFFIX, fuchsia.dev
 DOMAIN-SUFFIX, fury.dev
 DOMAIN-SUFFIX, g.dev
-DOMAIN-SUFFIX, gateway.dev
 DOMAIN-SUFFIX, get.dev
 DOMAIN-SUFFIX, github.dev
 DOMAIN-SUFFIX, githubpreview.dev
@@ -17876,8 +17847,6 @@ DOMAIN-SUFFIX, bestbuy.info
 DOMAIN-SUFFIX, bestbuy-giftcard.info
 DOMAIN-SUFFIX, billmelater.info
 DOMAIN-SUFFIX, billpoint.info
-DOMAIN-SUFFIX, binance.info
-DOMAIN-SUFFIX, binancezh.info
 DOMAIN-SUFFIX, bml.info
 DOMAIN-SUFFIX, bookshome.info
 DOMAIN-SUFFIX, braintreepayments.info
@@ -18082,7 +18051,6 @@ DOMAIN-SUFFIX, yatong.info
 DOMAIN-SUFFIX, yinshuiger.info
 DOMAIN-SUFFIX, youxu.info
 DOMAIN-SUFFIX, zhenlibu.info
-DOMAIN-SUFFIX, binancezh.ink
 DOMAIN-SUFFIX, shdd.ink
 DOMAIN-SUFFIX, itu.int
 DOMAIN-SUFFIX, who.int
@@ -18160,7 +18128,6 @@ DOMAIN-SUFFIX, flexpool.io
 DOMAIN-SUFFIX, fountmedia.io
 DOMAIN-SUFFIX, foxrad.io
 DOMAIN-SUFFIX, fury.io
-DOMAIN-SUFFIX, gate.io
 DOMAIN-SUFFIX, gcr.io
 DOMAIN-SUFFIX, geph.io
 DOMAIN-SUFFIX, getmdl.io
@@ -18915,7 +18882,6 @@ DOMAIN-SUFFIX, visa-news.jp
 DOMAIN-SUFFIX, visual-arts.jp
 DOMAIN-SUFFIX, volvogroup.jp
 DOMAIN-SUFFIX, volvotrucks.jp
-DOMAIN-SUFFIX, vpngate.jp
 DOMAIN-SUFFIX, wikiwiki.jp
 DOMAIN-SUFFIX, winticket.jp
 DOMAIN-SUFFIX, wiz-s.jp
@@ -19170,7 +19136,6 @@ DOMAIN-SUFFIX, vnet.link
 DOMAIN-SUFFIX, w3s.link
 DOMAIN-SUFFIX, wnacg.link
 DOMAIN-SUFFIX, 4ertik.live
-DOMAIN-SUFFIX, binancezh.live
 DOMAIN-SUFFIX, boylove.live
 DOMAIN-SUFFIX, cdnlab.live
 DOMAIN-SUFFIX, celebmasta.live
@@ -19372,7 +19337,6 @@ DOMAIN-SUFFIX, beric.me
 DOMAIN-SUFFIX, bestporntube.me
 DOMAIN-SUFFIX, bgme.me
 DOMAIN-SUFFIX, biedian.me
-DOMAIN-SUFFIX, binance.me
 DOMAIN-SUFFIX, binux.me
 DOMAIN-SUFFIX, binwang.me
 DOMAIN-SUFFIX, blogcity.me
@@ -19657,7 +19621,6 @@ DOMAIN-SUFFIX, mini.com.mo
 DOMAIN-SUFFIX, tdm.com.mo
 DOMAIN-SUFFIX, arabysexy.mobi
 DOMAIN-SUFFIX, bigindiansex.mobi
-DOMAIN-SUFFIX, binancezh.mobi
 DOMAIN-SUFFIX, brazzersporn.mobi
 DOMAIN-SUFFIX, cisco.mobi
 DOMAIN-SUFFIX, dabr.mobi
@@ -20210,8 +20173,6 @@ DOMAIN-SUFFIX, bigtitsgallery.net
 DOMAIN-SUFFIX, biguz.net
 DOMAIN-SUFFIX, billmelater.net
 DOMAIN-SUFFIX, bim360.net
-DOMAIN-SUFFIX, binance.net
-DOMAIN-SUFFIX, binancezh.net
 DOMAIN-SUFFIX, bing.net
 DOMAIN-SUFFIX, bipic.net
 DOMAIN-SUFFIX, bitbay.net
@@ -21688,7 +21649,6 @@ DOMAIN-SUFFIX, volvotrucks.net
 DOMAIN-SUFFIX, voxops.net
 DOMAIN-SUFFIX, vpn.net
 DOMAIN-SUFFIX, vpnforgame.net
-DOMAIN-SUFFIX, vpngate.net
 DOMAIN-SUFFIX, vpngratis.net
 DOMAIN-SUFFIX, vpninja.net
 DOMAIN-SUFFIX, vpnintouch.net
@@ -22323,7 +22283,6 @@ DOMAIN-SUFFIX, bigboobsonline.org
 DOMAIN-SUFFIX, bigbuckbunny.org
 DOMAIN-SUFFIX, bignews.org
 DOMAIN-SUFFIX, bigsound.org
-DOMAIN-SUFFIX, binance.org
 DOMAIN-SUFFIX, bioone.org
 DOMAIN-SUFFIX, biorxiv.org
 DOMAIN-SUFFIX, biqle.org
@@ -22720,7 +22679,6 @@ DOMAIN-SUFFIX, fpmt.org
 DOMAIN-SUFFIX, fpmt-osel.org
 DOMAIN-SUFFIX, fpmtmexico.org
 DOMAIN-SUFFIX, fqok.org
-DOMAIN-SUFFIX, free-gate.org
 DOMAIN-SUFFIX, free-hada-now.org
 DOMAIN-SUFFIX, free-xxx-porn.org
 DOMAIN-SUFFIX, freebdsmxxx.org
@@ -24100,7 +24058,6 @@ DOMAIN-SUFFIX, 3xxx.pro
 DOMAIN-SUFFIX, anyxxx.pro
 DOMAIN-SUFFIX, babes34.pro
 DOMAIN-SUFFIX, barss1207.pro
-DOMAIN-SUFFIX, binancezh.pro
 DOMAIN-SUFFIX, bsxm1213.pro
 DOMAIN-SUFFIX, cutout.pro
 DOMAIN-SUFFIX, cylink.pro
@@ -24691,7 +24648,6 @@ DOMAIN-SUFFIX, volvotrucks.sg
 DOMAIN-SUFFIX, yahoo.sg
 DOMAIN-SUFFIX, youtube.sg
 DOMAIN-SUFFIX, zaobao.sg
-DOMAIN-SUFFIX, binancezh.sh
 DOMAIN-SUFFIX, brew.sh
 DOMAIN-SUFFIX, codei.sh
 DOMAIN-SUFFIX, cursor.sh
@@ -25116,7 +25072,6 @@ DOMAIN-SUFFIX, avrila2023.top
 DOMAIN-SUFFIX, avriri.top
 DOMAIN-SUFFIX, awflapp.top
 DOMAIN-SUFFIX, bhzyw2.top
-DOMAIN-SUFFIX, binancezh.top
 DOMAIN-SUFFIX, crtsgfb1.top
 DOMAIN-SUFFIX, dpool.top
 DOMAIN-SUFFIX, fabuye.top
@@ -27859,11 +27814,9 @@ DOMAIN-SUFFIX, gainsborough.ac.uk
 DOMAIN-SUFFIX, galt.ac.uk
 DOMAIN-SUFFIX, gameplan.ac.uk
 DOMAIN-SUFFIX, gashe.ac.uk
-DOMAIN-SUFFIX, gate.ac.uk
 DOMAIN-SUFFIX, gateshead.ac.uk
 DOMAIN-SUFFIX, gatesheadcollege.ac.uk
 DOMAIN-SUFFIX, gatesheadlearningskills.ac.uk
-DOMAIN-SUFFIX, gateway.ac.uk
 DOMAIN-SUFFIX, gbmc.ac.uk
 DOMAIN-SUFFIX, gbmolluscatypes.ac.uk
 DOMAIN-SUFFIX, gbs3trial.ac.uk
@@ -31743,7 +31696,6 @@ DOMAIN-SUFFIX, beatsbydresales.us
 DOMAIN-SUFFIX, beatswholesale.us
 DOMAIN-SUFFIX, bestialityvideo.us
 DOMAIN-SUFFIX, billpoint.us
-DOMAIN-SUFFIX, binance.us
 DOMAIN-SUFFIX, caoporn.us
 DOMAIN-SUFFIX, careerengine.us
 DOMAIN-SUFFIX, cheapbeats.us
@@ -31965,7 +31917,6 @@ DOMAIN-SUFFIX, xdir.vip
 DOMAIN-SUFFIX, xinggan77.vip
 DOMAIN-SUFFIX, xxxvideo.vip
 DOMAIN-SUFFIX, xxxvidos.vip
-DOMAIN-SUFFIX, binance.vision
 DOMAIN-SUFFIX, archive.vn
 DOMAIN-SUFFIX, bacsitinhyeu.vn
 DOMAIN-SUFFIX, blogspot.vn
