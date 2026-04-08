@@ -151,7 +151,6 @@ DOMAIN, wwis-dubc1-vip97.adobe.com
 DOMAIN, wwis-dubc1-vip98.adobe.com
 DOMAIN, wwis-dubc1-vip99.adobe.com
 DOMAIN, adobeereg.com
-DOMAIN, gitlab-assets.oss-cn-hongkong.aliyuncs.com
 DOMAIN, payments-jp.amazon.com
 DOMAIN, misa-prod.s3.ap-northeast-1.amazonaws.com
 DOMAIN, cloudsync-prod.s3.amazonaws.com
@@ -7793,7 +7792,6 @@ DOMAIN-SUFFIX, githubnext.com
 DOMAIN-SUFFIX, githubstatus.com
 DOMAIN-SUFFIX, githubuniverse.com
 DOMAIN-SUFFIX, githubusercontent.com
-DOMAIN-SUFFIX, gitlab.com
 DOMAIN-SUFFIX, gitmemory.com
 DOMAIN-SUFFIX, gitstar.com
 DOMAIN-SUFFIX, gittigidiyorsikayet.com
@@ -18137,7 +18135,6 @@ DOMAIN-SUFFIX, git.io
 DOMAIN-SUFFIX, gitbook.io
 DOMAIN-SUFFIX, gitbooks.io
 DOMAIN-SUFFIX, github.io
-DOMAIN-SUFFIX, gitlab.io
 DOMAIN-SUFFIX, graphengine.io
 DOMAIN-SUFFIX, gsrc.io
 DOMAIN-SUFFIX, hackmd.io
@@ -20620,8 +20617,6 @@ DOMAIN-SUFFIX, girlfriendgalleries.net
 DOMAIN-SUFFIX, girlfriendvids.net
 DOMAIN-SUFFIX, girlfuckshorse.net
 DOMAIN-SUFFIX, girlsxxx.net
-DOMAIN-SUFFIX, gitlab.net
-DOMAIN-SUFFIX, gitlab-static.net
 DOMAIN-SUFFIX, gitstar.net
 DOMAIN-SUFFIX, gittigidiyor.net
 DOMAIN-SUFFIX, gizlen.net
