@@ -8,6 +8,11 @@
 # HOST-WILDCARD: 1
 # USER-AGENT: 3
 # TOTAL: 712
+
+HOST-SUFFIX,login.live.com,Microsoft
+HOST-SUFFIX,fpt.live.com,Microsoft
+HOST-SUFFIX,login.live.com,Microsoft
+
 HOST,bg.v4.a.dl.ws.microsoft.com,Microsoft
 HOST,bg4.v4.a.dl.ws.microsoft.com,Microsoft
 HOST,bj1.api.bing.com,Microsoft
