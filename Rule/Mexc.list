@@ -1,13 +1,11 @@
-HOST-SUFFIX,mexc.com,Mexc
-HOST-SUFFIX,mexc.link,Mexc
-HOST-SUFFIX,mexc.cg,Mexc
-HOST-SUFFIX,mexc.ci,Mexc
-HOST-SUFFIX,mexc.sg,Mexc
-
-DOMAIN-KEYWORD,mexc,Mexc
-HOST-KEYWORD,mexc,Mexc
-HOST-KEYWORD,mexcsensors,Mexc
-HOST-KEYWORD,greentreeone,Mexc
-HOST-KEYWORD,mocortech,Mexc
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.link
+DOMAIN-SUFFIX,mexc.cg
+DOMAIN-SUFFIX,mexc.ci
+DOMAIN-SUFFIX,mexc.sg
+DOMAIN-KEYWORD,mexcsensors
+DOMAIN-KEYWORD,greentreeone
+DOMAIN-KEYWORD,mocortech
+DOMAIN-KEYWORD,mexc
 
 
