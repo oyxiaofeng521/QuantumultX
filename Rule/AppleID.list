@@ -4,7 +4,7 @@
 # UPDATED: 2024-01-08 16:02:50
 # HOST: 4
 # TOTAL: 4
-HOST,appleid.apple.com,AppleID
-HOST,appleid.cdn-apple.com,AppleID
-HOST,gsa.apple.com,AppleID
-HOST,idmsa.apple.com,AppleID
+DOMAIN,appleid.apple.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,gsa.apple.com
+DOMAIN,idmsa.apple.com
