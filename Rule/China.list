@@ -1,22 +1,19 @@
-HOST-SUFFIX,alpha123.net,China
+DOMAIN-SUFFIX,alpha123.net
 
-HOST-KEYWORD,fourhoi,China
-HOST-KEYWORD,cloudflare,China
+DOMAIN-KEYWORD,fourhoi
+DOMAIN-KEYWORD,cloudflare
 
-HOST-KEYWORD,xnm,China
-HOST-KEYWORD,6666b,China
-HOST-KEYWORD,kuaimao2,China
-HOST-KEYWORD,svcloud,China
-HOST-KEYWORD,mitce,China
+DOMAIN-KEYWORD,xnm
+DOMAIN-KEYWORD,6666b
+DOMAIN-KEYWORD,kuaimao2
+DOMAIN-KEYWORD,svcloud
+DOMAIN-KEYWORD,mitce
 
+DOMAIN-SUFFIX,services.vnc.com
+DOMAIN-SUFFIX,mastercardservices.com
+DOMAIN-KEYWORD,service
 
-IP-CIDR,47.76.34.104/32,China
-
-HOST-SUFFIX,services.vnc.com,China
-HOST-SUFFIX,mastercardservices.com,China
-HOST-KEYWORD,service,China
-
-HOST-SUFFIX,mi.com,China
-HOST-KEYWORD,mycard520,China
-HOST-SUFFIX,mycard520.com,China
-HOST-SUFFIX,apis.bilin.eu.org,China
+DOMAIN-SUFFIX,mi.com
+DOMAIN-KEYWORD,mycard520
+DOMAIN-SUFFIX,mycard520.com
+DOMAIN-SUFFIX,apis.bilin.eu.org
