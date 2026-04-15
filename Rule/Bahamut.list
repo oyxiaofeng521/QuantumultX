@@ -5,12 +5,12 @@
 # HOST-SUFFIX: 8
 # USER-AGENT: 1
 # TOTAL: 9
-HOST-SUFFIX,bahamut.akamaized.net,Bahamut
-HOST-SUFFIX,bahamut.com.tw,Bahamut
-HOST-SUFFIX,digicert.com,Bahamut
-HOST-SUFFIX,fbcdn.net,Bahamut
-HOST-SUFFIX,gamer.com.tw,Bahamut
-HOST-SUFFIX,gvt1.com,Bahamut
-HOST-SUFFIX,hinet.net,Bahamut
-HOST-SUFFIX,viblast.com,Bahamut
-USER-AGENT,Anime*,Bahamut
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+USER-AGENT,Anime*
