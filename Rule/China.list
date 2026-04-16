@@ -8,10 +8,12 @@ DOMAIN-KEYWORD,6666b
 DOMAIN-KEYWORD,kuaimao2
 DOMAIN-KEYWORD,svcloud
 DOMAIN-KEYWORD,mitce
+DOMAIN-KEYWORD,dnshe
+DOMAIN-KEYWORD,cloudns
 
-DOMAIN-SUFFIX,services.vnc.com
+# DOMAIN-SUFFIX,services.vnc.com
 DOMAIN-SUFFIX,mastercardservices.com
-DOMAIN-KEYWORD,service
+# DOMAIN-KEYWORD,service
 
 DOMAIN-SUFFIX,mi.com
 DOMAIN-KEYWORD,mycard520
