@@ -9,9 +9,9 @@
 # # IP-CIDR: 23
 # TOTAL: 574
 
-DOMAIN,facebook.com
-DOMAIN-KEYWORD,facebook
 
+DOMAIN-KEYWORD,facebook
+# HOST-SUFFIX,facebook.com
 
 # HOST,fbcdn-a.akamaihd.net,Facebook
 # HOST-SUFFIX,aboutfacebook.com,Facebook
