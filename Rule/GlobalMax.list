@@ -283,7 +283,7 @@ DOMAIN, api.msn.com
 DOMAIN, assets.msn.com
 DOMAIN, api.viu.now.com
 DOMAIN, community.oneplus.com
-DOMAIN, cloud.oracle.com
+# DOMAIN, cloud.oracle.com
 DOMAIN, rsshub.pseudoyu.com
 DOMAIN, clubhouse.pubnubapi.com
 DOMAIN, wetv.qq.com
@@ -3538,7 +3538,7 @@ DOMAIN-SUFFIX, atandt.com
 DOMAIN-SUFFIX, atasale.com
 DOMAIN-SUFFIX, atchinese.com
 DOMAIN-SUFFIX, atdmt2.com
-DOMAIN-SUFFIX, ateam-oracle.com
+# DOMAIN-SUFFIX, ateam-oracle.com
 DOMAIN-SUFFIX, athenaeizou.com
 DOMAIN-SUFFIX, atkgallery.com
 DOMAIN-SUFFIX, atlanta168.com
@@ -11564,8 +11564,8 @@ DOMAIN-SUFFIX, optanedifference.com
 DOMAIN-SUFFIX, opticore.com
 DOMAIN-SUFFIX, optimumssl.com
 DOMAIN-SUFFIX, opus-gaming.com
-DOMAIN-SUFFIX, oraclecloud.com
-DOMAIN-SUFFIX, oracleimg.com
+# DOMAIN-SUFFIX, oraclecloud.com
+# DOMAIN-SUFFIX, oracleimg.com
 DOMAIN-SUFFIX, oranum.com
 DOMAIN-SUFFIX, orbitera.com
 DOMAIN-SUFFIX, orchidbbs.com
@@ -18176,7 +18176,7 @@ DOMAIN-SUFFIX, olevod.io
 DOMAIN-SUFFIX, opensea.io
 DOMAIN-SUFFIX, openthread.io
 DOMAIN-SUFFIX, openweave.io
-DOMAIN-SUFFIX, oracleinfinity.io
+# DOMAIN-SUFFIX, oracleinfinity.io
 DOMAIN-SUFFIX, ouo.io
 DOMAIN-SUFFIX, outbound.io
 DOMAIN-SUFFIX, packer.io
@@ -23201,7 +23201,7 @@ DOMAIN-SUFFIX, openweathermap.org
 DOMAIN-SUFFIX, openwrt.org
 DOMAIN-SUFFIX, opte.org
 DOMAIN-SUFFIX, optica.org
-DOMAIN-SUFFIX, oraclefoundation.org
+# DOMAIN-SUFFIX, oraclefoundation.org
 DOMAIN-SUFFIX, orzistic.org
 DOMAIN-SUFFIX, osm.org
 DOMAIN-SUFFIX, osmfoundation.org
