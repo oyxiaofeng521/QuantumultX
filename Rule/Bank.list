@@ -128,3 +128,7 @@ DOMAIN-KEYWORD,usmartsg
 DOMAIN-KEYWORD,usmartglobal
 DOMAIN-KEYWORD,usmartsecurities
 DOMAIN-KEYWORD,usmart8
+
+# > 致富证券 (Chief Securities)
+DOMAIN-SUFFIX, chiefgroup.com.hk
+DOMAIN-SUFFIX, chieftrade.com
